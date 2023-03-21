@@ -1,0 +1,45 @@
+header{
+   padding: 50px;
+    background-color: rgb(223, 211, 195);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 500%;
+}
+
+h2{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+p{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 3%;
+
+
+}
+
+img{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    padding: 60px;
+    background-color: rgb(133, 88, 111);
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-size: 200%;
+
+}
