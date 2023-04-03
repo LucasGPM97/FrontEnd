@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #FFE5EC;
+}
+
+ul{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+}
+
+a{
+    margin-top: 1.5%;
+    padding: 20px;
+    color: #D3039E;
+    border-radius: 25%;
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+    background-color: #FFC2B1;
+    box-shadow: 1px 1px 8px #D3039E;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    
+}
+
+section{
+    width: 100%;
+    height: 800px;
+    background-color: brown;
+}
+article{
+    width: 100%;
+    height: 800px;
+    background-color: yellow;
+}
+div{
+    width: 100%;
+    height: 800px;
+    background-color: green;
+}
