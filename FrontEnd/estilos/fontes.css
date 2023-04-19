@@ -1,0 +1,9 @@
+@font-face {
+    font-family: FonteCabecalho;
+    src: url(../fontes/Amarillo.ttf);
+}
+
+@font-face {
+    font-family: FonteTitulo;
+    src: url(../fontes/fonteTitulo.ttf);
+}
